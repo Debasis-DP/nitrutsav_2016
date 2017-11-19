@@ -1,0 +1,38 @@
+
+body{
+	overflow:hidden;
+}
+
+#bstage{
+	height:106%;
+	width:102%;
+	z-index:0;
+	position:absolute;
+	width: 100%;
+	top: 0%;
+	left:0%;
+}
+#st{
+	display:none;
+	position:absolute;
+	z-index:3;
+	height:96%;
+	width:43%;
+	margin:0 40% 0 28%;
+}
+
+.leftcurtain1 img{
+	z-index:6;
+	position:absolute;
+	width:40%;
+	height:86%;
+	top: 0%;
+}
+.rightcurtain1 img{
+	z-index:6;
+	position:absolute;
+	width:40%;
+	height:86%;
+	margin-left:50%;
+	top: 0%;
+}

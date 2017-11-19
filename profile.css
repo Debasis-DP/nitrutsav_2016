@@ -1,0 +1,41 @@
+body{
+  font-family: Arial;
+}
+#nit{
+  padding-right: 1%;
+  border-right: 2px solid #383838;
+  position: absolute;
+  top: 10%;
+  left: 43%;
+}
+#inno{
+  position: absolute;
+  top: 10%;
+  left: 50%;
+}
+#name{
+  position: absolute;
+  top: 45%;
+  left: 25%;
+  font-size: 150%;
+  list-style: none;
+}
+#resource{
+  position: absolute;
+  list-style: none;
+  top: 45%;
+  left: 55%;
+  font-size: 150%;
+}
+#id{
+  
+  font-weight: bold;
+}
+#text{
+  position: absolute;
+  top: 25%;
+  width: 99%;
+  text-align: center;
+  font-size: 200%;
+  letter-spacing: 10px;
+}
